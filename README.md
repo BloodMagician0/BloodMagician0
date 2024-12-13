@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Student, he/him
+- ⚡ Fun fact: Ravens are my favourite animal
 <!--
 **BloodMagician0/BloodMagician0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
