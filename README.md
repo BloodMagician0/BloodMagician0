@@ -1,6 +1,6 @@
 ## Hi there 👋
-Student, he/him
-- ⚡ Fun fact: Ravens are my favourite animal
+Student, he/him. I enjoy drawing and working with computer graphics in my free time
+- Fun fact: Ravens are my favourite animal
 <!--
 **BloodMagician0/BloodMagician0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
