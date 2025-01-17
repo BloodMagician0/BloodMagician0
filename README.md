@@ -1,6 +1,8 @@
 ## Hi there 👋
 Student, he/him. I enjoy drawing and working with computer graphics in my free time
 - Fun fact: Ravens are my favourite animal
+- https://github.com/tensorflow/models
+- https://paperswithcode.com/search?q=tensorflow/models
 <!--
 **BloodMagician0/BloodMagician0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
